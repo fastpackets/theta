@@ -33,6 +33,6 @@ screen -R 'socket #'
 
 Detach screen and let theta GN run.
 
-<ctl> a , d
+\<ctl\> a , d
   
   
