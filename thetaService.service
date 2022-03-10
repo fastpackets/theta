@@ -1,0 +1,9 @@
+[Unit]
+Description=StartFuelin
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /usr/bin/fuelup
+
+[Install]
+WantedBy=multi-user.target
