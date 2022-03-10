@@ -4,6 +4,7 @@ Description=StartFuelin
 [Service]
 Type=simple
 ExecStart=/bin/bash /usr/bin/fuelup
+RemainAfterExit=yes
 
 [Install]
 WantedBy=multi-user.target
