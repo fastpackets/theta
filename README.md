@@ -23,7 +23,7 @@ Restart sytemctl daemon
 systemctl daemon-reload
 
 Try it!
-Start theta to moon!
+Start theta to da moon!
 
 systemctl start thetaService.service
 
