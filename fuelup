@@ -1,0 +1,2 @@
+#script starts new screen detached and calls starttheta.sh
+screen -dmS fuel /root/fuelup/starttheta.sh
